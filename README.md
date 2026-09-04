@@ -1,8 +1,8 @@
 # EXP 4: Generating and Evaluating Prompts Across Different Prompt Patterns
 
-**DATE:** 20/8/2026
-**NAME:** ABISHEIK R
-**REGISTER NUMBER:** 212223040005
+## DATE: 04/09/2026
+## NAME: ABISHEIK R
+## REGISTER NUMBER: 212223040005
 
 ## Aim
 
